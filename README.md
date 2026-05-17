@@ -32,17 +32,17 @@ Based in La Ràpita (Tarragona, Catalonia), I am actively seeking opportunities 
 
 ### Highlighted Projects
 
-*Key projects developed during my academic training and personal development:*
+*Key projects developed during my academic training and personal development, hosted in my [projects_jordi](https://github.com/jordi05/projects_jordi) repository:*
 
-#### [Project Name 1] - Full-Stack Web Application
-- **Description:** A web application developed to manage [mention the purpose, e.g., an e-commerce platform, a management tool, or a school project].
-- **Stack:** Laravel, Vue.js, Docker
-- **Key Features:** User authentication, RESTful API integration, responsive interface.
+#### [TechMarket - E-Commerce Platform](https://github.com/jordi05/projects_jordi/tree/main/TechMarket)
+- **Description:** A full-stack e-commerce web application designed for hardware and tech components retail. It features a complete shopping cart system, dynamic product filtering, and an administration panel to manage inventory and stock.
+- **Stack:** Laravel, Vue.js, MySQL, Docker, CSS3
+- **Key Features:** User authentication, secure checkout simulation, state management with Vue, and containerized development environment using Docker.
 
-#### [Project Name 2] - Backend Service / API
-- **Description:** A backend service created to handle [mention what it does, e.g., data processing or automated tasks].
-- **Stack:** Python, Flask, Git
-- **Key Features:** Structured database integration, clean MVC folder structure, API routing.
+#### [TaskPulse - Agile Project Management API](https://github.com/jordi05/projects_jordi/tree/main/TaskPulse)
+- **Description:** A lightweight, high-performance RESTful API designed to manage team tasks, project deadlines, and user roles. Built to simulate a backend for an agile project management tool.
+- **Stack:** Python, Flask, SQLite, Git
+- **Key Features:** Token-based authentication (JWT), complete CRUD operations for tasks and projects, and automated database migrations.
 
 ---
 
