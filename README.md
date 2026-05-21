@@ -48,6 +48,6 @@ Based in La Ràpita (Tarragona, Catalonia), I am actively seeking opportunities 
 
 ### Contact & Links
 
-- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/jordi-arnau-3976811a6)
-- **Email:** your jarnauperez05@gmail.com
+- **LinkedIn:** (www.linkedin.com/in/jordi-arnau-3976811a6)
+- **Email:** jarnauperez05@gmail.com
 - **GitHub Portfolio:** [github.com/jordi05](https://github.com/jordi05)
